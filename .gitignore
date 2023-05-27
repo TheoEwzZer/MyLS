@@ -1,0 +1,13 @@
+*.gcno
+*.gcda
+unit_tests
+*.lib
+*.a
+*.pdf
+*.vscode
+*.o
+*.out
+my_ls
+test
+*vgcore*
+*.log
